@@ -19,9 +19,6 @@ void isLeapYear(int year){
         cout<<year<< " is Not Leap year!!";
     };
 };
-
-
-
 int main(){
     isLeapYear(1900);
     return 0;
